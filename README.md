@@ -1,5 +1,5 @@
 # Elevvo_pathways_internship
-Welcome to my Elevvo Internship repository! This repo documents the core data science tasks I completed as part of my internship, using Python and Jupyter Notebook.
+Welcome to my Elevvo Internship repository! This repo documents the core data science tasks I completed as part of my internship, using Jupyter Notebook.
 
 # INTERNSHIP TASK OVERVIEW
 

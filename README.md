@@ -1,7 +1,7 @@
 # Elevvo_pathways_internship
 Welcome to my Elevvo Internship repository! This repo documents the core data science tasks I completed as part of my internship, using Python and Google Collab.
 
-INTERNSHIP TASK OVERVIEW
+# INTERNSHIP TASK OVERVIEW
 
 ✅Task 1 – Sentiment Analysis
 
@@ -51,7 +51,7 @@ Compared DistilBERT vs TinyRoBERTa, evaluating with Exact Match (66.7%) and F1-s
 
 
 
-TECH STACKS & TOOLS:
+# TECH STACKS & TOOLS:
 
 Programming & Environment: Python, Google Colab
 Data Handling: Pandas, NumPy
@@ -73,7 +73,7 @@ Others: Joblib (model saving), tqdm (progress tracking), matplotlib (visualizati
 
 
 
-KEY LEARNINGS:
+# KEY LEARNINGS:
 
 Building end-to-end NLP pipelines: preprocessing → feature extraction → model training
 

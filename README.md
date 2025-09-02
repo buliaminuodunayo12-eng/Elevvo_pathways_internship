@@ -68,7 +68,7 @@ Hugging Face Transformers: Question Answering (DistilBERT, TinyRoBERTa)
 
 
 Evaluation Tools: Accuracy, F1-score, Confusion Matrix, evaluate library (EM & F1 for QA)
-Others: Joblib (model saving), tqdm (progress tracking), matplotlib (visualization)
+Others: matplotlib (visualization)
 
 
 
